@@ -2,6 +2,7 @@
 ## Dataset Summary
 
 The **NSCLC NAT WSI Dataset** is a curated collection of 2,544 digital pathology images derived from non-small cell lung cancer (NSCLC) patients who received neoadjuvant therapy (NAT) prior to surgery. The dataset includes both original images and augmented variants generated via standard data augmentation techniques such as flipping and mirroring. All samples were obtained from intraoperative frozen sections and scanned into whole slide images (WSIs), then resized for processing. This dataset is designed for research in computational pathology, particularly in the context of NSCLC following neoadjuvant treatment.
+![image-dataset]
 
 ## Download
 
