@@ -49,4 +49,4 @@ This dataset is intended for academic and research purposes only, particularly i
 
 If you use this dataset in your research, please cite it as:
 
-> [Liu Jierui]. "NSCLC NAT WSI Dataset" [2025]. Available at: [Dataset link].
+> Liu J, NSCLC NAT WSI Dataset. 2025. https://github.com/coconutjerry/NSCLC-NAT-WSI-Dataset
